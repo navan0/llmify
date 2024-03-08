@@ -1,0 +1,7 @@
+README.md
+setup.py
+nysabox.egg-info/PKG-INFO
+nysabox.egg-info/SOURCES.txt
+nysabox.egg-info/dependency_links.txt
+nysabox.egg-info/not-zip-safe
+nysabox.egg-info/top_level.txt
