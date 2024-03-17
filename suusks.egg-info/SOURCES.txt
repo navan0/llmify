@@ -1,7 +1,0 @@
-README.md
-setup.py
-suusks.egg-info/PKG-INFO
-suusks.egg-info/SOURCES.txt
-suusks.egg-info/dependency_links.txt
-suusks.egg-info/not-zip-safe
-suusks.egg-info/top_level.txt

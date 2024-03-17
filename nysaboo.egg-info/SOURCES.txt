@@ -1,7 +1,0 @@
-README.md
-setup.py
-nysaboo.egg-info/PKG-INFO
-nysaboo.egg-info/SOURCES.txt
-nysaboo.egg-info/dependency_links.txt
-nysaboo.egg-info/not-zip-safe
-nysaboo.egg-info/top_level.txt

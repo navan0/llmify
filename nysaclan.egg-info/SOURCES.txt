@@ -1,5 +1,0 @@
-setup.py
-nysaclan.egg-info/PKG-INFO
-nysaclan.egg-info/SOURCES.txt
-nysaclan.egg-info/dependency_links.txt
-nysaclan.egg-info/top_level.txt

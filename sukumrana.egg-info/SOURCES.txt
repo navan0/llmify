@@ -1,7 +1,0 @@
-README.md
-setup.py
-sukumrana.egg-info/PKG-INFO
-sukumrana.egg-info/SOURCES.txt
-sukumrana.egg-info/dependency_links.txt
-sukumrana.egg-info/not-zip-safe
-sukumrana.egg-info/top_level.txt

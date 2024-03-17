@@ -1,0 +1,2 @@
+def functi():
+    return "hi"
